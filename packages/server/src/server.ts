@@ -11,6 +11,6 @@ app.use(express.json())
 
 const port = 4444
 
-app.listen(4444, () => {
+app.listen(process.env.PORT || port, () => {
   console.log(`Server started in port ${port}`)
 })
