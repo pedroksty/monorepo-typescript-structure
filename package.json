@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
+  "scripts": {
+    "test": "jest"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
@@ -10,8 +13,12 @@
   },
   "author": "pedroksty <pedrotrab2132@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "typescript": "^3.9.5",
-    "@monorepo/eslint-config": "*"
+  "devDependencies": {
+    "@monorepo/eslint-config": "*",
+    "@types/jest": "^26.0.7",
+    "add": "^2.0.6",
+    "jest": "^26.1.0",
+    "ts-jest": "^26.1.4",
+    "typescript": "^3.9.5"
   }
 }
