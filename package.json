@@ -1,0 +1,16 @@
+{
+  "name": "monorepo-typescript-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "pedroksty <pedrotrab2132@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  }
+}
