@@ -6,7 +6,7 @@ import { View, Text } from 'react-native'
 const App: React.FC = () => {
   return (
     <View>
-      <Text>dale caralho</Text>
+      <Text>dale do dale</Text>
     </View>
   )
 }
