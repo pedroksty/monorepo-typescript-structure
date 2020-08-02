@@ -51,7 +51,7 @@ Podemos considerar este projeto como sendo divido em quatro partes:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js][nodejs], [Yarn][yarn], [Ambiente React Native][https://react-native.rocketseat.dev/].
+[Git](https://git-scm.com), [Node.js][nodejs], [Yarn][yarn], [Ambiente React Native][react-native-docs].
 Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
 ### 🎲 Rodando o Back End (servidor)
@@ -171,3 +171,4 @@ Feito com ❤️ por Pedro henrique 👋🏽 [Entre em contato!](https://www.lin
 [yarn-workspaces]: https://classic.yarnpkg.com/en/docs/workspaces/
 [eslint]: https://eslint.org/
 [prettier]: https://prettier.io/
+[react-native-docs]: https://react-native.rocketseat.dev/
