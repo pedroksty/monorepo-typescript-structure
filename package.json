@@ -9,6 +9,10 @@
   "workspaces": {
     "packages": [
       "packages/*"
+    ],
+    "nohoist": [
+      "**/react-native",
+      "**/react-native/**"
     ]
   },
   "author": "pedroksty <pedrotrab2132@gmail.com>",
